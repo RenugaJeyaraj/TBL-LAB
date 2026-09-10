@@ -11,7 +11,8 @@ To understand digital output programming using Arduino by blinking an LED.
 - Jumper Wires
 
 ## Circuit Diagram
-![Circuit Diagram](circuit.png)
+<img width="1010" height="566" alt="image" src="https://github.com/user-attachments/assets/93f2b93f-ea14-419f-96df-1f032d86c0df" />
+
 
 *(Replace `circuit.png` with a screenshot of your Tinkercad circuit before uploading.)*
 
